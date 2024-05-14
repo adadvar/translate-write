@@ -1,0 +1,11 @@
+{
+  "name": "Translate Extension",
+  "description": "Translate En to Fa Extension",
+  "version": "0.0.1",
+  "manifest_version": 3,
+
+  "action": {
+    "default_popup": "index.html",
+    "default_icon": "fa-flag.png"
+  }
+}
